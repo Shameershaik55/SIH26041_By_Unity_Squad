@@ -1,0 +1,11 @@
+Model Information:
+* title:	LIFE JACKET
+* source:	https://sketchfab.com/3d-models/life-jacket-98481565dd9e42f1af2d134a84f512f3
+* author:	tomian (https://sketchfab.com/tomian)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LIFE JACKET" (https://sketchfab.com/3d-models/life-jacket-98481565dd9e42f1af2d134a84f512f3) by tomian (https://sketchfab.com/tomian) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

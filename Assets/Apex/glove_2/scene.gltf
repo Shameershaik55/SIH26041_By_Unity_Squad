@@ -1,0 +1,923 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        2.543764114379883,
+        0.632236897945404,
+        2.3318843841552734
+      ],
+      "min": [
+        -1.726454257965088,
+        -0.8286458253860474,
+        -3.712520122528076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7512,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9994510412216187,
+        0.9998812675476074,
+        0.9951444268226624
+      ],
+      "min": [
+        -0.9999755620956421,
+        -0.9998729228973389,
+        -0.7016977667808533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9999741315841675,
+        0.9957481622695923,
+        0.9985640048980713,
+        1.0
+      ],
+      "min": [
+        -0.9989933371543884,
+        -0.9999956488609314,
+        -0.9985566139221191,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9766656756401062,
+        0.9983795285224915
+      ],
+      "min": [
+        0.0016438583843410015,
+        0.0016152745811268687
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2868,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15024,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        2.543764114379883,
+        0.632236897945404,
+        2.3318843841552734
+      ],
+      "min": [
+        -1.726454257965088,
+        -0.8286458253860474,
+        -3.712520122528076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22536,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9994510412216187,
+        0.9998812675476074,
+        0.9951444268226624
+      ],
+      "min": [
+        -0.9999755620956421,
+        -0.9998729228973389,
+        -0.7016977667808533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 10016,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9999741315841675,
+        0.9957481622695923,
+        0.9985640048980713,
+        1.0
+      ],
+      "min": [
+        -0.9989933371543884,
+        -0.9999956488609314,
+        -0.9985566139221191,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5008,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9766656756401062,
+        0.9983795285224915
+      ],
+      "min": [
+        0.0016438583843410015,
+        0.0016152745811268687
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11472,
+      "componentType": 5125,
+      "count": 2868,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30048,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        2.543764114379883,
+        0.632236897945404,
+        2.3318843841552734
+      ],
+      "min": [
+        -1.726454257965088,
+        -0.8286458253860474,
+        -3.712520122528076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37560,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9994510412216187,
+        0.9998812675476074,
+        0.9951444268226624
+      ],
+      "min": [
+        -0.9999755620956421,
+        -0.9998729228973389,
+        -0.7016977667808533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 20032,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9999741315841675,
+        0.9957481622695923,
+        0.9985640048980713,
+        1.0
+      ],
+      "min": [
+        -0.9989933371543884,
+        -0.9999956488609314,
+        -0.9985566139221191,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10016,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9766656756401062,
+        0.9983795285224915
+      ],
+      "min": [
+        0.0016438583843410015,
+        0.0016152745811268687
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 22944,
+      "componentType": 5125,
+      "count": 2868,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45072,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        2.543764114379883,
+        0.632236897945404,
+        2.3318843841552734
+      ],
+      "min": [
+        -1.726454257965088,
+        -0.8286458253860474,
+        -3.712520122528076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52584,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9994510412216187,
+        0.9998812675476074,
+        0.9951444268226624
+      ],
+      "min": [
+        -0.9999755620956421,
+        -0.9998729228973389,
+        -0.7016977667808533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 30048,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9999741315841675,
+        0.9957481622695923,
+        0.9985640048980713,
+        1.0
+      ],
+      "min": [
+        -0.9989933371543884,
+        -0.9999956488609314,
+        -0.9985566139221191,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15024,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9766656756401062,
+        0.9983795285224915
+      ],
+      "min": [
+        0.0016438583843410015,
+        0.0016152745811268687
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34416,
+      "componentType": 5125,
+      "count": 2868,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60096,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        2.543764114379883,
+        0.632236897945404,
+        2.3318843841552734
+      ],
+      "min": [
+        -1.726454257965088,
+        -0.8286458253860474,
+        -3.712520122528076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 67608,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9994510412216187,
+        0.9998812675476074,
+        0.9951444268226624
+      ],
+      "min": [
+        -0.9999755620956421,
+        -0.9998729228973389,
+        -0.7016977667808533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 40064,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9999741315841675,
+        0.9957481622695923,
+        0.9985640048980713,
+        1.0
+      ],
+      "min": [
+        -0.9989933371543884,
+        -0.9999956488609314,
+        -0.9985566139221191,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20032,
+      "componentType": 5126,
+      "count": 626,
+      "max": [
+        0.9766656756401062,
+        0.9983795285224915
+      ],
+      "min": [
+        0.0016438583843410015,
+        0.0016152745811268687
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 45888,
+      "componentType": 5125,
+      "count": 2868,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Rzyas (https://sketchfab.com/rzyas)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/glove-2-bb2e9ed896914999b8a5ba1ef99127bc",
+      "title": "Glove 2"
+    },
+    "generator": "Sketchfab-13.37.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 57360,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25040,
+      "byteOffset": 57360,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 75120,
+      "byteOffset": 82400,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50080,
+      "byteOffset": 157520,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 207600,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_01_MAT_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_01_MAT_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_01_MAT_normal.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_02_MAT_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_02_MAT_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_02_MAT_normal.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_03_MAT_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_03_MAT_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_03_MAT_normal.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_04_MAT_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_04_MAT_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_04_MAT_normal.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_05_MAT_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_05_MAT_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/KSTM_MGL_TacticalGlove02_05_MAT_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "KSTM_MGL_TacticalGlove02_01_MAT",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "KSTM_MGL_TacticalGlove02_02_MAT",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "KSTM_MGL_TacticalGlove02_03_MAT",
+      "normalTexture": {
+        "index": 8
+      },
+      "occlusionTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "KSTM_MGL_TacticalGlove02_04_MAT",
+      "normalTexture": {
+        "index": 11
+      },
+      "occlusionTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9
+        },
+        "metallicRoughnessTexture": {
+          "index": 10
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "KSTM_MGL_TacticalGlove02_05_MAT",
+      "normalTexture": {
+        "index": 14
+      },
+      "occlusionTexture": {
+        "index": 13
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 12
+        },
+        "metallicRoughnessTexture": {
+          "index": 13
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "KSTM_MGL_TacticalGlove_KSTM_MGL_TacticalGlove02_01_MAT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "KSTM_MGL_TacticalGlove02_KSTM_MGL_TacticalGlove02_02_MAT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "KSTM_MGL_TacticalGlove03_KSTM_MGL_TacticalGlove02_03_MAT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "KSTM_MGL_TacticalGlove04_KSTM_MGL_TacticalGlove02_04_MAT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "KSTM_MGL_TacticalGlove05_KSTM_MGL_TacticalGlove02_05_MAT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "edb318d2aae649fc955cd3c887e479b3.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        131.61911010742188,
+        206.01248168945313,
+        2.7679596314555965e-05,
+        1.0
+      ],
+      "name": "KSTM_MGL_TacticalGlove"
+    },
+    {
+      "mesh": 0,
+      "name": "KSTM_MGL_TacticalGlove_KSTM_MGL_TacticalGlove02_01_MAT_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        587.1183471679688,
+        206.01248168945313,
+        2.7679596314555965e-05,
+        1.0
+      ],
+      "name": "KSTM_MGL_TacticalGlove02"
+    },
+    {
+      "mesh": 1,
+      "name": "KSTM_MGL_TacticalGlove02_KSTM_MGL_TacticalGlove02_02_MAT_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        1042.6175537109375,
+        206.01248168945313,
+        2.7679596314555965e-05,
+        1.0
+      ],
+      "name": "KSTM_MGL_TacticalGlove03"
+    },
+    {
+      "mesh": 2,
+      "name": "KSTM_MGL_TacticalGlove03_KSTM_MGL_TacticalGlove02_03_MAT_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        1498.1168212890625,
+        206.01248168945313,
+        2.7679596314555965e-05,
+        1.0
+      ],
+      "name": "KSTM_MGL_TacticalGlove04"
+    },
+    {
+      "mesh": 3,
+      "name": "KSTM_MGL_TacticalGlove04_KSTM_MGL_TacticalGlove02_04_MAT_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        1953.6160888671875,
+        206.01248168945313,
+        2.7679596314555965e-05,
+        1.0
+      ],
+      "name": "KSTM_MGL_TacticalGlove05"
+    },
+    {
+      "mesh": 4,
+      "name": "KSTM_MGL_TacticalGlove05_KSTM_MGL_TacticalGlove02_05_MAT_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Astro Helmet (Full Rigged)
+* source:	https://sketchfab.com/3d-models/astro-helmet-full-rigged-f8e59526baf649cab60f35273104462a
+* author:	Elite Big Speakerman (https://sketchfab.com/EvesStudio2008)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Astro Helmet (Full Rigged)" (https://sketchfab.com/3d-models/astro-helmet-full-rigged-f8e59526baf649cab60f35273104462a) by Elite Big Speakerman (https://sketchfab.com/EvesStudio2008) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

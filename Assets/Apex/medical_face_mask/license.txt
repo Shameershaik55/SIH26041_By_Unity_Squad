@@ -1,0 +1,8 @@
+Model Information:
+* title:	Medical Face mask
+* source:	https://sketchfab.com/3d-models/medical-face-mask-351c89dbde394209b959d2d37e9d4cce
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

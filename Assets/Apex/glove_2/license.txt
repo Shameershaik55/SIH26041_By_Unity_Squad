@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glove 2
+* source:	https://sketchfab.com/3d-models/glove-2-bb2e9ed896914999b8a5ba1ef99127bc
+* author:	Rzyas (https://sketchfab.com/rzyas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glove 2" (https://sketchfab.com/3d-models/glove-2-bb2e9ed896914999b8a5ba1ef99127bc) by Rzyas (https://sketchfab.com/rzyas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
